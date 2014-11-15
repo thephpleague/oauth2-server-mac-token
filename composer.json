@@ -1,0 +1,14 @@
+{
+    "name": "league/oauth2-server-mac-token",
+    "description": "Support for MAC tokens in league/oauth2-server",
+    "require": {
+        "league/oauth2-server": "~4.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Bilbie",
+            "email": "hello@alexbilbie.com"
+        }
+    ]
+}
